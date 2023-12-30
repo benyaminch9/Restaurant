@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Restaurant.Models.TableReservation>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h4 class="dashboard-style">مدیریت رزرو میز</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Count)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Message)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActiveOrDiActive)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Time)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Count)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Message)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActiveOrDiActive)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-outline-warning">جزِیِیات</a>
+                    @if (item.ActiveOrDiActive == false)
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-outline-success">تایید</a>
+                    }
+                    else
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-outline-danger">عدم تایید</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

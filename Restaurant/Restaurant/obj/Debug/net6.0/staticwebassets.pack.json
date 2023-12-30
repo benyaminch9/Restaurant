@@ -1,0 +1,953 @@
+{
+  "Files": [
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Restaurant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Restaurant.bundle.scp.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\css\\venobox.min.css",
+      "PackagePath": "staticwebassets\\css\\venobox.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-Black.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-Bold.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-ExtraBold.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-ExtraLight.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-Light.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-Medium.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-Regular.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-SemiBold.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\Estedad-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-Thin.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANYekanBlack.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanBlack.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANYekanExtraBlack.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanExtraBlack.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANYekanMedium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanMedium.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\IRANYekanThin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANYekanThin.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf",
+      "PackagePath": "staticwebassets\\fonts\\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOej.woff2",
+      "PackagePath": "staticwebassets\\fonts\\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOej.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\uicons-regular-rounded.eot",
+      "PackagePath": "staticwebassets\\fonts\\uicons-regular-rounded.eot"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\uicons-regular-rounded.woff",
+      "PackagePath": "staticwebassets\\fonts\\uicons-regular-rounded.woff"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\fonts\\uicons-regular-rounded.woff2",
+      "PackagePath": "staticwebassets\\fonts\\uicons-regular-rounded.woff2"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\Amex.png",
+      "PackagePath": "staticwebassets\\images\\Amex.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\Button.png",
+      "PackagePath": "staticwebassets\\images\\Button.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\Footers-bg.png",
+      "PackagePath": "staticwebassets\\images\\Footers-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\GooglePay.png",
+      "PackagePath": "staticwebassets\\images\\GooglePay.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\Google_Play.png",
+      "PackagePath": "staticwebassets\\images\\Google_Play.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\Mastercard.png",
+      "PackagePath": "staticwebassets\\images\\Mastercard.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\PayPal.png",
+      "PackagePath": "staticwebassets\\images\\PayPal.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\Process-bg.png",
+      "PackagePath": "staticwebassets\\images\\Process-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\PromoBanner-1.png",
+      "PackagePath": "staticwebassets\\images\\PromoBanner-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\PromoBanner-2.png",
+      "PackagePath": "staticwebassets\\images\\PromoBanner-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\Visa.png",
+      "PackagePath": "staticwebassets\\images\\Visa.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\about-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\about-icon-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\about-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\about-icon-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\about-thumb.png",
+      "PackagePath": "staticwebassets\\images\\about-thumb.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-1.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-2.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-3.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-4.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-5.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-5.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-6.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-6.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-7.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-7.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\address-cart-8.png",
+      "PackagePath": "staticwebassets\\images\\address-cart-8.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\after-icon.png",
+      "PackagePath": "staticwebassets\\images\\after-icon.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\all-food-bg.png",
+      "PackagePath": "staticwebassets\\images\\all-food-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\apple.png",
+      "PackagePath": "staticwebassets\\images\\apple.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\banner-1.png",
+      "PackagePath": "staticwebassets\\images\\banner-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\banner-bg-two.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg-two.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\banner-thunb.png",
+      "PackagePath": "staticwebassets\\images\\banner-thunb.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\banner-victor.png",
+      "PackagePath": "staticwebassets\\images\\banner-victor.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-10.png",
+      "PackagePath": "staticwebassets\\images\\blog-10.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-11.png",
+      "PackagePath": "staticwebassets\\images\\blog-11.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-12.png",
+      "PackagePath": "staticwebassets\\images\\blog-12.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-4.png",
+      "PackagePath": "staticwebassets\\images\\blog-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-5.png",
+      "PackagePath": "staticwebassets\\images\\blog-5.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-6.png",
+      "PackagePath": "staticwebassets\\images\\blog-6.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-7.png",
+      "PackagePath": "staticwebassets\\images\\blog-7.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-8.png",
+      "PackagePath": "staticwebassets\\images\\blog-8.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-9.png",
+      "PackagePath": "staticwebassets\\images\\blog-9.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-details-box-1.png",
+      "PackagePath": "staticwebassets\\images\\blog-details-box-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-details-box-2.png",
+      "PackagePath": "staticwebassets\\images\\blog-details-box-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\blog-details-img.png",
+      "PackagePath": "staticwebassets\\images\\blog-details-img.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\cart-1.png",
+      "PackagePath": "staticwebassets\\images\\cart-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\categories-bg.png",
+      "PackagePath": "staticwebassets\\images\\categories-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\close_search.png",
+      "PackagePath": "staticwebassets\\images\\close_search.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\comments-1.png",
+      "PackagePath": "staticwebassets\\images\\comments-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\comments-2.png",
+      "PackagePath": "staticwebassets\\images\\comments-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\comments-3.png",
+      "PackagePath": "staticwebassets\\images\\comments-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\comments-4.png",
+      "PackagePath": "staticwebassets\\images\\comments-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\customer-1.png",
+      "PackagePath": "staticwebassets\\images\\customer-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\customer-2.png",
+      "PackagePath": "staticwebassets\\images\\customer-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\customer-3.png",
+      "PackagePath": "staticwebassets\\images\\customer-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\customer-icon.png",
+      "PackagePath": "staticwebassets\\images\\customer-icon.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\dashboard-menu-profile-img.png",
+      "PackagePath": "staticwebassets\\images\\dashboard-menu-profile-img.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\dashboard.html",
+      "PackagePath": "staticwebassets\\images\\dashboard.html"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\faq-1.png",
+      "PackagePath": "staticwebassets\\images\\faq-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\faq-2.png",
+      "PackagePath": "staticwebassets\\images\\faq-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\faq-3.png",
+      "PackagePath": "staticwebassets\\images\\faq-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\faq-4.png",
+      "PackagePath": "staticwebassets\\images\\faq-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\faq-bg.png",
+      "PackagePath": "staticwebassets\\images\\faq-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\fave.png",
+      "PackagePath": "staticwebassets\\images\\fave.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\featured-1.png",
+      "PackagePath": "staticwebassets\\images\\featured-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\featured-2.png",
+      "PackagePath": "staticwebassets\\images\\featured-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\featured-3.png",
+      "PackagePath": "staticwebassets\\images\\featured-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\food-video.png",
+      "PackagePath": "staticwebassets\\images\\food-video.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\footer-logo.svg",
+      "PackagePath": "staticwebassets\\images\\footer-logo.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\from.png",
+      "PackagePath": "staticwebassets\\images\\from.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\inner-bg.png",
+      "PackagePath": "staticwebassets\\images\\inner-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\latest-blog-1.png",
+      "PackagePath": "staticwebassets\\images\\latest-blog-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\latest-blog-2.png",
+      "PackagePath": "staticwebassets\\images\\latest-blog-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\latest-blog-3.png",
+      "PackagePath": "staticwebassets\\images\\latest-blog-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\latest-blog-4.png",
+      "PackagePath": "staticwebassets\\images\\latest-blog-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\login.png",
+      "PackagePath": "staticwebassets\\images\\login.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\logo-header.svg",
+      "PackagePath": "staticwebassets\\images\\logo-header.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\modal-imf-7.png",
+      "PackagePath": "staticwebassets\\images\\modal-imf-7.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\my-cart.png",
+      "PackagePath": "staticwebassets\\images\\my-cart.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\news-1.png",
+      "PackagePath": "staticwebassets\\images\\news-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\news-2.png",
+      "PackagePath": "staticwebassets\\images\\news-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\news-3.png",
+      "PackagePath": "staticwebassets\\images\\news-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\popular-1.png",
+      "PackagePath": "staticwebassets\\images\\popular-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\popular-2.png",
+      "PackagePath": "staticwebassets\\images\\popular-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\popular-3.png",
+      "PackagePath": "staticwebassets\\images\\popular-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\popular-4.png",
+      "PackagePath": "staticwebassets\\images\\popular-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\popular-5.png",
+      "PackagePath": "staticwebassets\\images\\popular-5.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\popular-6.png",
+      "PackagePath": "staticwebassets\\images\\popular-6.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\populer.png",
+      "PackagePath": "staticwebassets\\images\\populer.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\process-themb.png",
+      "PackagePath": "staticwebassets\\images\\process-themb.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\promobanner-01.png",
+      "PackagePath": "staticwebassets\\images\\promobanner-01.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\promobanner-02.png",
+      "PackagePath": "staticwebassets\\images\\promobanner-02.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\promotions-bg.png",
+      "PackagePath": "staticwebassets\\images\\promotions-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\rest-bg.png",
+      "PackagePath": "staticwebassets\\images\\rest-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\restaurant.png",
+      "PackagePath": "staticwebassets\\images\\restaurant.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\review.png",
+      "PackagePath": "staticwebassets\\images\\review.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\slick-2.png",
+      "PackagePath": "staticwebassets\\images\\slick-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\slick-3.png",
+      "PackagePath": "staticwebassets\\images\\slick-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\slick-4.png",
+      "PackagePath": "staticwebassets\\images\\slick-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\slick-5.png",
+      "PackagePath": "staticwebassets\\images\\slick-5.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\sms.png",
+      "PackagePath": "staticwebassets\\images\\sms.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\star.svg",
+      "PackagePath": "staticwebassets\\images\\star.svg"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\tabel-1.png",
+      "PackagePath": "staticwebassets\\images\\tabel-1.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\tabel-2.png",
+      "PackagePath": "staticwebassets\\images\\tabel-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\tabel-3.png",
+      "PackagePath": "staticwebassets\\images\\tabel-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\tabel-4.png",
+      "PackagePath": "staticwebassets\\images\\tabel-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\tabel-5.png",
+      "PackagePath": "staticwebassets\\images\\tabel-5.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\traditional-2.png",
+      "PackagePath": "staticwebassets\\images\\traditional-2.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\traditional-3.png",
+      "PackagePath": "staticwebassets\\images\\traditional-3.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\traditional-4.png",
+      "PackagePath": "staticwebassets\\images\\traditional-4.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\traditional-5.png",
+      "PackagePath": "staticwebassets\\images\\traditional-5.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\traditional-6.png",
+      "PackagePath": "staticwebassets\\images\\traditional-6.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\traditional-bg.png",
+      "PackagePath": "staticwebassets\\images\\traditional-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\images\\work-bg.png",
+      "PackagePath": "staticwebassets\\images\\work-bg.png"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\jquery-3.6.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.3.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.shuffle.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.shuffle.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\js\\venobox.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "W:\\برنامه نویسی\\پروژه ها\\Project\\Back-End\\Restaurant\\Code\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Restaurant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Restaurant.props",
+      "PackagePath": "build\\Restaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Restaurant.props",
+      "PackagePath": "buildTransitive\\Restaurant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

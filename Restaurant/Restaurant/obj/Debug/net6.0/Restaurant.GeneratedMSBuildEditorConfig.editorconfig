@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,12 +38,52 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/TableReservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/TableReservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/TableReservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/TableReservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Tables/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Tables/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Tables/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Tables/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/Tables/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [W:/برنامه نویسی/پروژه ها/Project/Back-End/Restaurant/Code/Restaurant/Restaurant/Views/_ViewImports.cshtml]
